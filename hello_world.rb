@@ -2,4 +2,6 @@ puts "Hello World!"
 
 puts "Jenny is the best"
 
-return 2+2
+x = 2+2
+
+return x
